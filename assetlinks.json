@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kidpom3_hue.twa",
+        "sha256_cert_fingerprints": ["0E:F1:06:20:65:41:F7:2F:8B:41:9E:D4:85:FF:1F:25:1E:86:CB:73:73:99:DC:83:46:EC:98:2D:A1:CD:CB:6A"]
+      }
+    }]
